@@ -361,11 +361,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
             [
-                InlineKeyboardButton('support', url='https://t.me/JOSPSupport'),
-                InlineKeyboardButton('channel', url='https://t.me/JosProjects')
+                InlineKeyboardButton('🔰G R O U P🔰', url='https://t.me/Filmsclub04'),
+                InlineKeyboardButton('🔰D E V🔰', url='https://t.me/Films_Bot_Panther')
             ],
             [
-                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                InlineKeyboardButton('🔰S U P P O R T 🔰', url=f'https://t.me/BT_MOVIES_HD')
             ]
             ]
             
@@ -415,11 +415,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{title}"
         buttons = [
             [
-                InlineKeyboardButton('support', url='https://t.me/JOSPSupport'),
-                InlineKeyboardButton('channel', url='https://t.me/JosProjects')
+                InlineKeyboardButton('🔰G R O U P🔰', url='https://t.me/Filmsclub04'),
+                InlineKeyboardButton('🔰D E V🔰', url='https://t.me/Films_Bot_Panther')
             ],
             [
-                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                InlineKeyboardButton('🔰S U P P O R T 🔰', url=f'https://t.me/BT_MOVIES_HD')
             ]
             ]
         await query.answer()
