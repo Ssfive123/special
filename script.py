@@ -1,17 +1,17 @@
 class Script(object):
-    START_TXT = """Hello {},
+    START_TXT = """ʜᴇʟʟᴏ {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>!
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+<b>ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs. ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
+ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ😉, ʜɪᴛ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ..</b>"""
 
     HELP_TXT = """Hey {}
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
+    ABOUT_TXT = """<b>➥ ᴍʏ ɴᴀᴍᴇ: {}
 ➥ ᴄʀᴇᴀᴛᴏʀ👑: <a href='https://t.me/Films_bot_Panther'>ʙᴀʙᴀʏ </a>
 ➥ ʟɪʙʀᴀʀʏ📑: <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ➥ ʟᴀɴɢᴜᴀɢᴇ ✍︎: ᴘʏᴛʜᴏɴ 3
@@ -27,7 +27,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 - <a href='https://t.me/Aboutmewhitedevil'>ʙᴀʙᴀʏ</a>
 
 <b>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</b>
-- <a href='https://t.me/Filmsclub04'>ғɪʟᴍs ᴄʟᴜʙ</a>"""
+- <a href='https://t.me/RequestZoneX'>ʀᴇǫᴜᴇsᴛ ᴢᴏɴᴇ</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -240,7 +240,7 @@ This module only works for my admins
 <b>Used Storage:</b> <code>{}</code> MiB
 <b>Free Storage:</b> <code>{}</code> MiB"""
 
-    FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
+    FORCESUB_TXT = """**♦️ ʀᴇᴀᴅ ᴛʜɪs ɪɴsᴛʀᴜᴄᴛɪᴏɴ ♦️**
 
 __🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
 
@@ -335,14 +335,14 @@ a bot to create a link to share text in the telegram.
 • These commands can be used by any group member."""
 
     LOG_TEXT_G = """#NewGroup
-Group = {}(<code>{}</code>)
-Total Members = <code>{}</code>
-Added By - {}
+⍟ɢʀᴏᴜᴘ = {}(<code>{}</code>)
+⍟ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs = <code>{}</code>
+᯽ᴀᴅᴅᴇᴅ ʙʏ - {}
 """
 
     LOG_TEXT_P = """#NewUser
-ID - <code>{}</code>
-Name - {}"""
+ɪᴅ - <code>{}</code>
+ɴᴀᴍᴇ - {}"""
 
     ZOMBIES_TXT = """Help: <b>Zombies</b>
 
