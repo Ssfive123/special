@@ -162,7 +162,7 @@ async def imdb_callback(bot: Client, quer_y: CallbackQuery):
             [
                 InlineKeyboardButton(
                     text=f"ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ☘︎",
-                    url="https://t.me/Bt_movies_hd"
+                    url="https://t.me/Filmzonex"
                 )
             ],
         ]
