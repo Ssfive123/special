@@ -361,11 +361,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
             [
-                InlineKeyboardButton('🔰G R O U P🔰', url='https://t.me/Filmsclub04'),
-                InlineKeyboardButton('🔰D E V🔰', url='https://t.me/Films_Bot_Panther')
+                InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Requestzonex'),
+                InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Films_Bot_Panther')
             ],
             [
-                InlineKeyboardButton('🔰S U P P O R T 🔰', url=f'https://t.me/BT_MOVIES_HD')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/Filmzonex')
             ]
             ]
             
@@ -415,11 +415,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{title}"
         buttons = [
             [
-                InlineKeyboardButton('🔰G R O U P🔰', url='https://t.me/Filmsclub04'),
-                InlineKeyboardButton('🔰D E V🔰', url='https://t.me/Films_Bot_Panther')
+                InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Requestzonex'),
+                InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Films_Bot_Panther')
             ],
             [
-                InlineKeyboardButton('🔰S U P P O R T 🔰', url=f'https://t.me/BT_MOVIES_HD')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/Filmzonex')
             ]
             ]
         await query.answer()
@@ -439,12 +439,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍𝑠𝑒𝑎𝑟𝑐𝒉 𝒉𝑒𝑟𝑒 𝑚𝑜𝑣𝑖𝑒🔎', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ʜᴇʀᴇ ᴍᴏᴠɪᴇs🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟', url='https://t.me/FILMS_BOT_PANTHER'),
-            InlineKeyboardButton('𝐺𝑟𝑜𝑢𝑝', url='https://t.me/BT_MOVIES_HD')
+            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/FILMS_BOT_PANTHER'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Filmzonex')
             ],[
-            InlineKeyboardButton('✗ 𝐶𝑙𝑜𝑠𝑒 𝑇𝒉𝑒 𝑀𝑒𝑛𝑢 ✗', callback_data='close_data')
+            InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ✗', callback_data='close_data')
         ]]
         await query.message.edit_text(
             text="⭗ ⭗ ⭗ ⭗ ⭗ ⭗"
@@ -524,7 +524,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('source', callback_data='source')
             ],[
             InlineKeyboardButton('search movie', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Channel', url='https://t.me/BT_MOVIES_HD'),
+            InlineKeyboardButton('Channel', url='https://t.me/Filmzonex'),
             ],[
             InlineKeyboardButton('help & commands', callback_data='help')
             ],[
@@ -989,7 +989,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"<b>🎬 Title:</b> {search}\n</b>\n<b><a href='https://t.me/+q9NMdy0rY10zZWZl'>© IMDb (Series & Movies) Studio</a></b>\n\n<b>✍️ Note:</b> <s>This message will be Auto-deleted after 10 minutes to avoid copyright issues.</s>"
+        cap = f"<b>🎬 Title:</b> {search}\n</b>\n<b><a href='https://t.me/Filmzonex'>© FɪʟᴍZᴏɴᴇ X</a></b>\n\n<b>✍️ Note:</b> <s>This message will be Auto-deleted after 10 minutes to avoid copyright issues.</s>"
     if imdb and imdb.get('poster'):
         try:
             joelkb = await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
