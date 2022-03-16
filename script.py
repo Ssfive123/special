@@ -11,22 +11,22 @@ class Script(object):
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ 𝙈𝙔 𝙉𝘼𝙈𝙀: {} </b>
-➥ 𝘾𝙍𝙀𝘼𝙏𝙊𝙍 👑: <a href='https://t.me/Films_bot_Panther'>𝘽𝘼𝘽𝘼𝙔 🎭</a>
-➥ 𝙇𝙄𝘽𝙍𝘼𝙍𝙔 📑: <a href='https://docs.pyrogram.org/'>𝙋𝙔𝙍𝙊𝙂𝙍𝘼𝙈</a>
-➥ 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀 ✍︎: 𝙋𝙔𝙏𝙃𝙊𝙉
-➥ 𝘿𝘼𝙏𝘼𝘽𝘼𝙎𝙀 🌐: <a href='https://www.mongodb.com/'>𝙈𝙊𝙉𝙂𝙊 𝘿𝘽</a>
-➥ 𝘽𝙊𝙏 𝙎𝙀𝙍𝙑𝙀𝙍🤖: <a href='https://heroku.com'>𝙃𝙀𝙍𝙊𝙆𝙐</a>
-➥ 𝙒𝙃𝙊 𝘼𝙈 𝙄 : 𝙂𝙀𝙉𝙄𝙐𝙎,𝘽𝙄𝙇𝙇𝙄𝙊𝙉𝘼𝙄𝙍𝙀,𝙋𝙇𝘼𝙔𝘽𝙊𝙔,𝙋𝙃𝙄𝙇𝘼𝙉𝙏𝙍𝙊𝙋𝙃𝙄𝙎𝙏😎
+    ABOUT_TXT = """<b>➥ ᴍʏ ɴᴀᴍᴇ: {} </b>
+➥ ᴄʀᴇᴀᴛᴏʀ 👑: <a href='https://t.me/Films_bot_Panther'>𝘽𝘼𝘽𝘼𝙔 🎭</a>
+➥ ʟɪʙʀᴀʀʏ 📑: <a href='https://docs.pyrogram.org/'>𝙋𝙔𝙍𝙊𝙂𝙍𝘼𝙈</a>
+➥ ʟᴀɴɢᴜᴀɢᴇ ✍︎: 𝙋𝙔𝙏𝙃𝙊𝙉
+➥ ᴅᴀᴛᴀʙᴀsᴇ 🌐: <a href='https://www.mongodb.com/'>𝙈𝙊𝙉𝙂𝙊 𝘿𝘽</a>
+➥ ʙᴏᴛ sᴇʀᴠᴇʀ🤖: <a href='https://heroku.com'>𝙃𝙀𝙍𝙊𝙆𝙐</a>
+➥ ᴡʜᴏ ᴀᴍ ɪ : 𝙂𝙀𝙉𝙄𝙐𝙎,𝘽𝙄𝙇𝙇𝙄𝙊𝙉𝘼𝙄𝙍𝙀,𝙋𝙇𝘼𝙔𝘽𝙊𝙔,𝙋𝙃𝙄𝙇𝘼𝙉𝙏𝙍𝙊𝙋𝙃𝙄𝙎𝙏😎
 
-    SOURCE_TXT = """<b>SOURCE:</b>
+    SOURCE_TXT = """<b>sᴏᴜʀᴄᴇ:</b>
 ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴍᴀᴅᴇ ʙʏ 👑 @FILMS_BOT_PANTHER
 ғᴏʀ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴏᴡɴᴇʀ @Aboutmewhitedevil
 
-<b>💠𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍:</b>
+<b>💠ᴅᴇᴠ:</b>
 - <a href='https://t.me/Aboutmewhitedevil'>ʙᴀʙᴀʏ</a>
 
-<b>𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋</b>
+<b>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</b>
 - <a href='https://t.me/RequestZoneX'>ʀᴇǫᴜᴇsᴛ ᴢᴏɴᴇ</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
