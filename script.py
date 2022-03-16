@@ -19,7 +19,7 @@ class Script(object):
 ➥ 𝘽𝙊𝙏 𝙎𝙀𝙍𝙑𝙀𝙍🤖: <a href='https://heroku.com'>𝙃𝙀𝙍𝙊𝙆𝙐</a>
 ➥ 𝙒𝙃𝙊 𝘼𝙈 𝙄 : 𝙂𝙀𝙉𝙄𝙐𝙎,𝘽𝙄𝙇𝙇𝙄𝙊𝙉𝘼𝙄𝙍𝙀,𝙋𝙇𝘼𝙔𝘽𝙊𝙔,𝙋𝙃𝙄𝙇𝘼𝙉𝙏𝙍𝙊𝙋𝙃𝙄𝙎𝙏😎
 
-    SOURCE_TXT = """<b>𝙎𝙊𝙐𝙍𝘾𝙀:</b>
+    SOURCE_TXT = """<b>SOURCE:</b>
 ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴍᴀᴅᴇ ʙʏ 👑 @FILMS_BOT_PANTHER
 ғᴏʀ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴏᴡɴᴇʀ @Aboutmewhitedevil
 
