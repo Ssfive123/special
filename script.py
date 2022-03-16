@@ -11,7 +11,7 @@ class Script(object):
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ 𝙈𝙔 𝙉𝘼𝙈𝙀😈: {}
+    ABOUT_TXT = """<b>➥ 𝙈𝙔 𝙉𝘼𝙈𝙀: {} </b>
 ➥ 𝘾𝙍𝙀𝘼𝙏𝙊𝙍 👑: <a href='https://t.me/Films_bot_Panther'>𝘽𝘼𝘽𝘼𝙔 🎭</a>
 ➥ 𝙇𝙄𝘽𝙍𝘼𝙍𝙔 📑: <a href='https://docs.pyrogram.org/'>𝙋𝙔𝙍𝙊𝙂𝙍𝘼𝙈</a>
 ➥ 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀 ✍︎: 𝙋𝙔𝙏𝙃𝙊𝙉
