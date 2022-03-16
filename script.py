@@ -11,22 +11,23 @@ class Script(object):
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """➥ ᴍʏ ɴᴀᴍᴇ: {} 
-➥ ᴄʀᴇᴀᴛᴏʀ 👑: <a href='https://t.me/Films_bot_Panther'>𝘽𝘼𝘽𝘼𝙔 🎭</a>
-➥ ʟɪʙʀᴀʀʏ 📑: <a href='https://docs.pyrogram.org/'>𝙋𝙔𝙍𝙊𝙂𝙍𝘼𝙈</a>
-➥ ʟᴀɴɢᴜᴀɢᴇ ✍︎: 𝙋𝙔𝙏𝙃𝙊𝙉
-➥ ᴅᴀᴛᴀʙᴀsᴇ 🌐: <a href='https://www.mongodb.com/'>𝙈𝙊𝙉𝙂𝙊 𝘿𝘽</a>
-➥ ʙᴏᴛ sᴇʀᴠᴇʀ🤖: <a href='https://heroku.com'>𝙃𝙀𝙍𝙊𝙆𝙐</a>
+    ABOUT_TXT = """<b>➥ ᴍʏ ɴᴀᴍᴇ: {}
+➥ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/Films_bot_panther'>ʙᴀʙᴀʏ</a>
+➥ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
+➥ ʟᴀɴɢᴜᴀɢᴇ: Python 𝟹
+➥ ᴅᴀᴛᴀ ʙᴀsᴇ: <a href='https://www.mongodb.com/'>MongoDB</a>
+➥ ʙᴏᴛ sᴇʀᴠᴇʀ: <a href='https://heroku.com'>Heroku</a>
+➥ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v7.8.9 [ ᴘʀᴏ ]"""
 
-    SOURCE_TXT = """<b>sᴏᴜʀᴄᴇ:</b>
-ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴍᴀᴅᴇ ʙʏ 👑 @FILMS_BOT_PANTHER
-ғᴏʀ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴏᴡɴᴇʀ @Aboutmewhitedevil
+    SOURCE_TXT = """<b>Source:</b>
+Tʜɪs ʙᴏᴛ ᴡᴀs ᴍᴀᴅᴇ ʙʏ ♥️ @Films_bot_Panther
+Iғ ʏᴏᴜ ɴᴇᴇᴅ ᴛʜɪs ʀᴇᴘᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴏᴡɴᴇʀ @Aboutmewhitedevil
 
-<b>💠ᴅᴇᴠ:</b>
-- <a href='https://t.me/Aboutmewhitedevil'>ʙᴀʙᴀʏ</a>
+<b>ᴅᴇᴠs:</b>
+- <a href='https://t.me/Films_bot_panther'>ʙᴀʙᴀʏ</a>
 
 <b>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</b>
-- <a href='https://t.me/RequestZoneX'>ʀᴇǫᴜᴇsᴛ ᴢᴏɴᴇ</a>"""
+- <a href='https://t.me/Requestzonex'>Rᴇǫᴜᴇsᴛ Zᴏɴᴇ-X</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
