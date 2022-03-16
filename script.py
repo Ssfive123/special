@@ -11,22 +11,22 @@ class Script(object):
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ ᴍʏ ɴᴀᴍᴇ: {}
-➥ ᴄʀᴇᴀᴛᴏʀ👑: <a href='https://t.me/Films_bot_Panther'>ʙᴀʙᴀʏ </a>
-➥ ʟɪʙʀᴀʀʏ📑: <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
-➥ ʟᴀɴɢᴜᴀɢᴇ ✍︎: ᴘʏᴛʜᴏɴ 3
-➥ ᴅᴀᴛᴀ ʙᴀsᴇ🌐: <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
-➥ ʙᴏᴛ sᴇʀᴠᴇʀ🤖: <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a>
-➥ ʙᴜɪʟᴅ sᴛᴀᴛᴜs🥴: V7.8.9[ ᴘʀᴏ ]"""
+    ABOUT_TXT = """<b>➥ 𝙈𝙔 𝙉𝘼𝙈𝙀😈: {}
+➥ 𝘾𝙍𝙀𝘼𝙏𝙊𝙍 👑: <a href='https://t.me/Films_bot_Panther'>𝘽𝘼𝘽𝘼𝙔 🎭</a>
+➥ 𝙇𝙄𝘽𝙍𝘼𝙍𝙔 📑: <a href='https://docs.pyrogram.org/'>𝙋𝙔𝙍𝙊𝙂𝙍𝘼𝙈</a>
+➥ 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀 ✍︎: 𝙋𝙔𝙏𝙃𝙊𝙉
+➥ 𝘿𝘼𝙏𝘼𝘽𝘼𝙎𝙀 🌐: <a href='https://www.mongodb.com/'>𝙈𝙊𝙉𝙂𝙊 𝘿𝘽</a>
+➥ 𝘽𝙊𝙏 𝙎𝙀𝙍𝙑𝙀𝙍🤖: <a href='https://heroku.com'>𝙃𝙀𝙍𝙊𝙆𝙐</a>
+➥ 𝙒𝙃𝙊 𝘼𝙈 𝙄 : 𝙂𝙀𝙉𝙄𝙐𝙎,𝘽𝙄𝙇𝙇𝙄𝙊𝙉𝘼𝙄𝙍𝙀,𝙋𝙇𝘼𝙔𝘽𝙊𝙔,𝙋𝙃𝙄𝙇𝘼𝙉𝙏𝙍𝙊𝙋𝙃𝙄𝙎𝙏😎
 
-    SOURCE_TXT = """<b>Source:</b>
+    SOURCE_TXT = """<b>𝙎𝙊𝙐𝙍𝘾𝙀:</b>
 ᴛʜɪs ʙᴏᴛ ᴡᴀs ᴍᴀᴅᴇ ʙʏ 👑 @FILMS_BOT_PANTHER
 ғᴏʀ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴏᴡɴᴇʀ @Aboutmewhitedevil
 
-<b>ᴅᴇᴠs:</b>
+<b>💠𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍:</b>
 - <a href='https://t.me/Aboutmewhitedevil'>ʙᴀʙᴀʏ</a>
 
-<b>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</b>
+<b>𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋</b>
 - <a href='https://t.me/RequestZoneX'>ʀᴇǫᴜᴇsᴛ ᴢᴏɴᴇ</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
@@ -234,9 +234,9 @@ This module only works for my admins
 • /channel - to get list of total connected channels.
 • /broadcast - to broadcast a message to all users."""
 
-    STATUS_TXT = """<b>📽️𝙁𝙄𝙇𝙀𝙎:</b> <code>2{}</code>
-<b>🎭𝙐𝙎𝙀𝙍𝙎:</b> <code>1356{}</code>
-<b>🍷𝘾𝙃𝘼𝙏𝙎:</b> <code>765{}</code>
+    STATUS_TXT = """<b>📽️𝙁𝙄𝙇𝙀𝙎:</b> <code>1{}</code>
+<b>🎭𝙐𝙎𝙀𝙍𝙎:</b> <code>135{}</code>
+<b>🍷𝘾𝙃𝘼𝙏𝙎:</b> <code>7{}</code>
 <b>📊𝙐𝙎𝙀𝘿 𝙎𝙏𝙊𝙍𝘼𝙂𝙀:</b> <code>{}</code> MiB
 <b>💠𝙁𝙍𝙀𝙀 𝙎𝙏𝙊𝙍𝘼𝙂𝙀:</b> <code>{}</code> MiB"""
 
